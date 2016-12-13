@@ -23,12 +23,12 @@ body {
 
 .container-logo {
 	height: 50px;
-	width: 310px;
+	width: 340px;
 	margin: 30px auto;
 }
 
 .container-logo img{
-	margin-right: 20px;
+	margin: 0 20px 0 25px;
 	margin-top: 5px;
 	display: block;
 	float: left
@@ -36,7 +36,7 @@ body {
 
 .container-logo h1 {
 	color: #4A595F;
-	font-weight: 700;
+	font-weight: 500;
 	font-size: 28px;
 }
 
